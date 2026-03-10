@@ -4,7 +4,7 @@ A lightweight reusable dynamic navigation header with icons for PHP applications
 
 ## Preview
 
-![Dynamic Header](header.png)
+![Dynamic Header](screenshot.png)
 
 ## Features
 
